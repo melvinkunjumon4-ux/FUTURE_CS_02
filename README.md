@@ -1,4 +1,6 @@
-# ## Phishing Email Detection & Awareness Report — Cyber Security Task 2, Future Interns
+# FUTURE_CS_02
+
+## Phishing Email Detection & Awareness Report — Cyber Security Task 2, Future Interns
 
 ### Overview
 An analysis of real-world phishing email samples, performed as part of 
